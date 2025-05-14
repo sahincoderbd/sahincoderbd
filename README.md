@@ -63,15 +63,16 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
 ## 📊 GitHub Stats:
 
 ### 🔝 Top Repositories & Language Stats
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahincoderbd&theme=highcontrast" style="width: 100%;" />
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=radical" />
-</p>
+<div style="display:flex ;gap:10px">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=highcontrast" alt="Top Languages" style="width: 49%;" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=highcontrast" alt="Most Used Languages" style="width: 49%;" />
+</div>
 
 ### 🔥 GitHub Streak
 
- <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=highcontrast&hide_border=true&border_radius=5&card_width=410" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=highcontrast&hide_border=true&border_radius=5&card_width=1012" alt="GitHub Streak" /></a>
 
 ---
 
