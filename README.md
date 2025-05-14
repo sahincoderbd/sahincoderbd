@@ -85,8 +85,8 @@ Hi, I’m Sahin, a Web Developer currently working at WenextCoder since almost 2
 ---
 ### ✍️ Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 50%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 50%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 49%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 49%" />
 </p>
 
 
