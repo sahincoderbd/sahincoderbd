@@ -17,9 +17,9 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
 • Portfolio: [www.sahincoder.com](https://www.sahincoder.com)
 
 📫 **Let’s Connect**  
-🌐 [Portfolio](https://www.sahincoder.com)  
-💼 [LinkedIn](https://linkedin.com/in/sahincoder)  
-🎨 [Behance](https://behance.net/sahinwebdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5201FF?logo=web&logoColor=white)](https://www.sahincoder.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahincoder)  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sahincoder)
 
 ---
 
@@ -51,7 +51,7 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ### 🔝 Top Repositories & Language Stats
 
@@ -64,10 +64,12 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=radical" alt="Top Languages by Commits">
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sahincoderbd&theme=radical&hide_border=false" alt="Streak Stats">
+    </td>
+  </tr>
 </table>
-
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=sahincoderbd&theme=radical&hide_border=false)
 
 ---
 
