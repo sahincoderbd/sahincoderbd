@@ -55,29 +55,14 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
 
 ### 🔝 Top Repositories & Language Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=radical" alt="Top Repos">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=radical" alt="Top Languages by Commits">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=sahincoderbd&theme=radical&hide_border=false" alt="Streak Stats">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=radical" />
+</p>
 
----
+### 🔥 GitHub Streak
 
-### 🔝 Top Repositories
-
-[![Top Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=radical)](https://github.com/sahincoderbd)
-
-[![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=radical)](https://github.com/sahincoderbd)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=radical&border_radius=4)](https://git.io/streak-stats)
 
 ---
 
