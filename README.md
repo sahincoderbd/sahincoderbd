@@ -17,9 +17,18 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
 • Portfolio: [www.sahincoder.com](https://www.sahincoder.com)
 
 📫 **Let’s Connect**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-5201FF?logo=web&logoColor=white)](https://www.sahincoder.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahincoder)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sahincoder)
+<div style="display:flex; gap:20px">
+ <a href="https://www.sahincoder.com">
+  <img src="https://img.shields.io/badge/Portfolio-5201FF?logo=web&logoColor=white" />  
+ </a> 
+ <a href="https://linkedin.com/in/sahincoder">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />  
+ </a> 
+ <a href="https://behance.net/sahincoder">
+  <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />  
+ </a> 
+</div>
+
 
 ---
 
@@ -62,7 +71,7 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=radical&border_radius=4)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=highcontrast&hide_border=true&border_radius=5&card_width=410" alt="GitHub Streak" /></a>
 
 ---
 
