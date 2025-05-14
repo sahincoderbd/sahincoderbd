@@ -66,27 +66,27 @@ Hi, I’m Sahin, a Web Developer currently working at WenextCoder since almost 2
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahincoderbd&theme=highcontrast" style="width: 100%;" />
 
 <div style="display:flex">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=highcontrast" alt="Top Languages" style="width: 503px;" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=highcontrast" alt="Most Used Languages" style="width: 503px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=highcontrast" alt="Top Languages" style="width: 49%;" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=highcontrast" alt="Most Used Languages" style="width: 49%;" />
 </div>
 
 ### 🔥 GitHub Streak
 
- <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=highcontrast&hide_border=true&border_radius=5&card_width=1010" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=highcontrast&hide_border=true&border_radius=5" style="width:100%" alt="GitHub Streak" /></a>
 
 ---
 ## 🕒 Commits Stats
 <div style="display:flex">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahincoderbd&theme=highcontrast&utcOffset=8&card_width=1010" style="width: 503px;" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahincoderbd&theme=highcontrast" style="width:503px" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahincoderbd&theme=highcontrast&utcOffset=8&card_width=1010" style="width: 49%;" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahincoderbd&theme=highcontrast" style="width:49%" />
 </div>
 
 
 ---
 ### ✍️ Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 503px;" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 503px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 50%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 50%" />
 </p>
 
 
