@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 🧑‍💼 About Me:
 Welcome to My GitHub!  
-Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, where I help businesses achieve their digital transformation goals. I specialize in creating user-focused, scalable, and visually engaging websites and applications.
+Hi, I’m Sahin, a Web Developer currently working at WenextCoder since almost 2 years, where I help businesses achieve their digital transformation goals. I specialize in creating user-focused, scalable, and visually engaging websites and applications.
 
 💼 **Professional Expertise**  
 • **Web Development**: Responsive, SEO-optimized, and performance-driven websites  
@@ -65,21 +65,28 @@ Hi, I’m Sahin, a professional Web Developer currently working at WenextCoder, 
 ### 🔝 Top Repositories & Language Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahincoderbd&theme=highcontrast" style="width: 100%;" />
 
-<div style="display:flex ;gap:10px">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=highcontrast" alt="Top Languages" style="width: 49%;" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=highcontrast" alt="Most Used Languages" style="width: 49%;" />
+<div style="display:flex">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahincoderbd&theme=highcontrast" alt="Top Languages" style="width: 503px;" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahincoderbd&theme=highcontrast" alt="Most Used Languages" style="width: 503px;" />
 </div>
 
 ### 🔥 GitHub Streak
 
- <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=highcontrast&hide_border=true&border_radius=5&card_width=1012" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sahincoderbd&theme=highcontrast&hide_border=true&border_radius=5&card_width=1010" alt="GitHub Streak" /></a>
 
 ---
+## 🕒 Commits Stats
+<div style="display:flex">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahincoderbd&theme=highcontrast&utcOffset=8&card_width=1010" style="width: 503px;" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahincoderbd&theme=highcontrast" style="width:503px" />
+</div>
 
+
+---
 ### ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 503px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 503px;" />
+</p>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=sahinwebdev&icon=0&color=8)](https://visitcount.itsvg.in)
