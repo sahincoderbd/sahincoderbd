@@ -11,7 +11,9 @@ Hi, I’m Sahin, a Web Developer currently working at WenextCoder since almost 2
 🚀 **What I’m Working On**  
 • Agency Projects @ WenextCoder  
 • Advanced Front-End & E-commerce learning  
-• Freelancing on Fiverr  
+• Any kind of membership ans subscription website  
+• Custom plugin if needed in the project
+
 
 🌟 **Notable Projects**  
 • Portfolio: [www.sahincoder.com](https://www.sahincoder.com)
