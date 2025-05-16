@@ -4,7 +4,7 @@ Hi, I’m Sahin, a Web Developer currently working at WenextCoder since almost 2
 
 💼 **Professional Expertise**  
 • **Web Development**: Responsive, SEO-optimized, and performance-driven websites  
-• **Technologies**: HTML, CSS, JavaScript, WordPress, React  
+• **Technologies**: HTML, CSS, JavaScript, PHP, WordPress
 • **Agency Experience**: Tailored client solutions at WenextCoder  
 • **Design**: UX/UI design using Figma and Adobe XD  
 
